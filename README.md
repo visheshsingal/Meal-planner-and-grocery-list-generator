@@ -8,3 +8,4 @@ The Meal Planner & Grocery List Generator is a React-based web application desig
 
 - **Weekly Meal Planning:** Create and manage meal plans for the entire week.
 - **Recipe Selection:** Browse a collection of recipes and add them to your meal plan.
+- **Grocery List Generation:** Automatically generate a comprehensive grocery list based on selected recipes.
